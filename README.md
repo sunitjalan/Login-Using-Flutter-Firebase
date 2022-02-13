@@ -1,6 +1,6 @@
-# login
-
-A new Flutter project.
+# Email-Password Login App
+This is a simple authentication demo app made using Flutter and Firebase for backend.
+Various error input detections are placed and includes SignUp also.
 
 ## Getting Started
 
